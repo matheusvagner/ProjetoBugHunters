@@ -10,3 +10,5 @@ O projeto será um sistema de controle de estoque de um mercado de bairro que te
 - Iremos ter uma classe de produtos onde iremos informar os dados listados acima.
 
 - Será possível consultar produto unitário, por categoria e lista geral.
+
+- aed
